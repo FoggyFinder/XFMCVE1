@@ -10,7 +10,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Svg.Skia" Version="0.5.12" />
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2350-nightly" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2359-nightly" />
     <PackageReference Include="SkiaSharp.Views.Forms" Version="2.80.3" />
   </ItemGroup>
 </Project>
